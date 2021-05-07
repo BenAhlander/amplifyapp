@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+amplify-container {
+  background-color: #fafafa;
+}
+
 :root {
   --amplify-primary-color: #ff5722;
 }
